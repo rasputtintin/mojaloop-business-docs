@@ -22,6 +22,9 @@ Many roles apply to multiple portals, however, some roles may be specific to ind
 
 Care should be taken when assigning multiple roles to an account, or multiple accounts to an individual natural person. This is due to the potential that arises for the circumvention of controls. Part of the purpose of RBAC is to ensure that more than one person must be in the authorization chain for important actions, so reducing the vulnerabilities around bad actors.
 
+### Segregation of Duties
+Segregation of duties (SoD) is a central issue for enterprises to ensure compliance with laws and regulations. The importance of SoD arises from the consideration that giving a single individual complete control of a process or a data asset can expose an organization to risk. In a Mojaloop Hub context, implementing SoD is an important control element to support the achievement of an effective operational risk management strategy.
+
 ## Mojaloop ecosystem portals
 
 The Mojaloop ecosystem offers a number of portals, which support varying degrees of access control and RBAC. These are split into two groups: 
